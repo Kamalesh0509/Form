@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://img.freepik.com/free-photo/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking_8353-6408.jpg?size=626&ext=jpg) ;
+}
+.main{
+    align-self: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    border-color: grey;
+    border-style: solid;
+   background-image: url();
+}
+h3{
+    -webkit-text-fill-color: white;
+}
+.Submit{
+    
+    margin-left: 60%;
+}
